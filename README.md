@@ -12,7 +12,6 @@ This repository contains the hardware assets used to build, modify, repair, and 
 
 Depending on the current state of development, this repository may include:
 
-- CAD models
 - 3D printable components
 - Mechanical drawings
 - Assembly drawings
