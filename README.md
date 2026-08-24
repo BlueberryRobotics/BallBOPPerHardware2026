@@ -12,10 +12,9 @@ This repository contains the hardware assets used to build, modify, repair, and 
 
 Depending on the current state of development, this repository may include:
 
-- 3D printable components
-- Mechanical drawings
-- Assembly drawings
-- Electrical schematics
+- 3D printable parts (early on this is all it will contain)
+- Mechanical illustrations
+- Assembly illustrations
 - Wiring diagrams
 - Bill of Materials (BOM)
 - Hardware specifications
