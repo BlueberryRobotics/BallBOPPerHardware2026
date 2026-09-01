@@ -1,0 +1,7 @@
+FrontFlatSide 51 x 262
+RearFlatSideWall 51 x 81
+BatteryInnerWall 51x 144
+BatteryOuterWall 51 x 157
+RearBatteryWall 51 x 107
+FrontSkidPlate 453 x 424
+RearSkidPlate 751 x 323
